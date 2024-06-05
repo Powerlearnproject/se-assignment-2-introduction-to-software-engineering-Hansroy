@@ -199,6 +199,7 @@ Intellectual Property: Respecting copyright and intellectual property rights whe
 Transparency: Being transparent about how software works and its potential impact on users.
 
 How can software engineers ensure they adhere to ethical standards in their work?
+Software engineers can ensure they adhere to ethical standards in their work by being informed about ethical principles and best practices in software development. Adhere to established codes of ethics, such as those provided by professional organizations like the ACM or IEEE.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
